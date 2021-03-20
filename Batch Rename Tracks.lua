@@ -1,3 +1,20 @@
+--[[
+ * ReaScript Name: Batch Rename Tracks
+ * Description: Replacing, trimming, adding, and or numbering selected tracks
+ * Instructions: Select tracks, run script, edit track names, press Apply
+ * Author: Sivert Henriksen
+ * Author URI:
+ * Repository:
+ * Repository URI:
+ * File URI:
+ * Licence: GPL v3
+ * Forum Thread:
+ * Forum Thread URI:
+ * REAPER: 6.25
+ * Extensions: SWS/S&M 2.12.1.3
+ * Version: 1.0
+--]]
+
 -------- Scythe stuff --------
 
 local libPath = reaper.GetExtState("Scythe v3", "libPath")
