@@ -3,13 +3,10 @@
  * Description: Replacing, trimming, adding, and or numbering selected tracks
  * Instructions: Select tracks, run script, edit track names, press Apply
  * Author: Sivert Henriksen
- * Author URI:
- * Repository:
- * Repository URI:
- * File URI:
+ * Author URI: www.siverthenriksen.no/en
+ * Repository URI: https://github.com/sivert-h/batch-rename-tracks
  * Licence: GPL v3
- * Forum Thread:
- * Forum Thread URI:
+ * Forum Thread URI: https://forum.cockos.com/showthread.php?t=251121
  * REAPER: 6.25
  * Extensions: SWS/S&M 2.12.1.3
  * Version: 1.0
